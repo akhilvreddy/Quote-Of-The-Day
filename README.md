@@ -1,3 +1,4 @@
 # Quote Of The Day
 
-bokka a cuck
+bokka a goat
+
