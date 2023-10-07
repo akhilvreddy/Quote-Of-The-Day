@@ -1,2 +1,3 @@
-# Quote-Of-The-Day
-HackRU Fall 2023 :)
+# Quote Of The Day
+
+bokka a cuck
