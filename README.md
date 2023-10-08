@@ -1,40 +1,14 @@
 # Quote Of The Day
 
-bokka a goat
-
-# Rutgers BITS Fall 2022 Datathon
-
-<!---
-What they are grading us on: 
-1) research questions
-2) data analysis visualization and methodology 
-3) coonclusion
-4) reflection and improvements
--->
-
-## 11/06 Update - We Ranked #1 and best project overall :)
-
 Final Video Presentation:
 https://youtu.be/TCiNaajMAC4
 
-We started off our project by looking for data sets to work with. We wanted to be able to answer relevant and interesting questions with tangible data. Something we had to keep in mind was picking data sets that did not have too many lines of data in the .csv file because we did not have laptops with a lot of computing power.
+Project dealing with mental health and community awareness. 
 
-We ended up going with the [**Global Happiness Score**](https://www.kaggle.com/datasets/unsdsn/world-happiness) dataset because we are genuinely interested in the happiness of people around the world and the different factors that affect it. 
-
-Since happiness is a pretty broad topic, we wanted to cross-correlate with two other dataset to see similarities/differences and have a partial causation to happiness. We decided to work with [**Carbon Emissions**](https://www.kaggle.com/datasets/ankanhore545/carbon-dioxide-emissions-of-the-world) globally as well as [**Alcohol Consumption**](https://www.kaggle.com/datasets/pralabhpoudel/alcohol-consumption-by-country) globally.
-
-After brainstorming, we wanted to answer the following questions used data visualization and statistical analysis.
-
-```
-1)  Does having more money (GDP/capita) and better life conditions lead to more happiness?
-2)  Is there a correlation between alcohol consumption and happiness? 
-3)  Is there a correlation between CO2 emissions and happiness? 
-4)  For countries without clear happiness scores, is there a way to predict/classify them?
-```
-
-We kept these questions in mind while doing our project but also let our imagination fly sometimes.
-
-With all this in mind, here is our project!
+Frontend: React
+Backend: Node
+Cloud: GCP
+Database: MongoDB
 
 >All of the data we used can be found [here.](https://github.com/akhilvreddy/Datathon/tree/main/Excel%20%26%20CSV/Original%20CSV%20Files)
 
