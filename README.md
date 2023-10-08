@@ -1,7 +1,7 @@
 # Quote Of The Day
 
 Final Video Presentation:
-https://youtu.be/TCiNaajMAC4
+[https://youtu.be/TCiNaajMAC4](https://youtu.be/u4ElkAzIuOg)
 
 Project dealing with mental health and community awareness. 
 
