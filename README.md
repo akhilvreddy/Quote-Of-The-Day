@@ -15,8 +15,6 @@ Project dealing with mental health and community awareness.
 
 >All of the data we used can be found [here.](https://github.com/akhilvreddy/Datathon/tree/main/Excel%20%26%20CSV/Original%20CSV%20Files)
 
-## How the Project W
-
 
 ## Contributors 
 [Akhil Reddy](https://www.linkedin.com/in/akhilvreddy/) is a senior at the Rutgers School of Engineering studying Computer Engineering. 
